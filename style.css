@@ -1,0 +1,26 @@
+/* nav.navbar{
+    background-color: red;
+} */
+
+/* section{
+    height: 500px;
+} */
+
+/* .main-img img{
+    width: 500px;
+}
+.col-md img{
+  width: 30%;
+} */
+
+.mainimg img{
+    width: 90%;
+    margin-top: 2.2rem;
+}
+
+button .btn:hover {
+    background-color: #ffffff; /* Change background color on hover */
+    color: #000000; /* Change text color on hover */
+    border-color: #ffffff;
+
+ }
